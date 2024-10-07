@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @MayurArchives (Mayur Kanyal)
 - 👀 I’m interested in Web Development Technologies, User Experience Design, and User Interface Design.
-- 🌱 I’m currently learning AWS Cloud Solutions Architect, Core Java, and advancing my skills in JavaScript/TypeScript, React, and Tailwind CSS.
+- 🌱 I’m currently advancing my skills in Core Java, JavaScript/TypeScript, React, and Tailwind CSS.
 - 💞️ I’m looking to collaborate on projects related to web development, especially in React, Tailwind CSS, and creating interactive and responsive websites.
 - 📫 How to reach me:
     - GitHub: [github.com/MayurArchives](https://github.com/MayurArchives)
     - LinkedIn: [linkedin.com/mayur-kanyal](https://www.linkedin.com/mayur-kanyal)
     - Email: mayurkanyal10@gmail.com
     - Phone: +91 - 7818835979
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Secured 22nd Place in the DAV Nationals 100m Race 2019–2020!
+- ⚡ Fun fact: Secured 2nd Place in the DAV Nationals 100m Race 2019–2020!
