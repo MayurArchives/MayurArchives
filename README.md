@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I have a strong passion for web development, focusing on HTML, CSS, and JavaScript. Currently, I’m immersing myself in frontend development by mastering React.js and exploring the possibilities with Next.js.<br><br>🚀 I’m open to exciting job opportunities in the tech industry!
+👋 I have a strong passion for web development, focusing on Java, HTML, CSS, and JavaScript. Currently, I’m immersing myself in frontend development by mastering React.js and exploring the possibilities with Next.js.<br><br>🚀 I’m open to exciting job opportunities in the tech industry!
 
 
 ## 🌐 Socials:
